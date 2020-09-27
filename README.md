@@ -1,16 +1,52 @@
-# umma_flutter
+# Umma Pay Test Flutter
 
-umma flutter
+## Описание
 
-## Getting Started
+Все константы использованы в ThemeData в файл ```theme_data.dart```
+Экраны вынесены в директорию ```/screens``
+Компоненты вынесены в директорию ```/components```
+ListView Builder использует статичные списки из директории ```/services```
 
-This project is a starting point for a Flutter application.
+## Дерево проекта
 
-A few resources to get you started if this is your first Flutter project:
+.
+├── README.md
+├── android
+├── build
+├── fonts
+│   ├── OpenSans-Bold.ttf
+│   ├── OpenSans-BoldItalic.ttf
+│   ├── OpenSans-ExtraBold.ttf
+│   ├── OpenSans-ExtraBoldItalic.ttf
+│   ├── OpenSans-Italic.ttf
+│   ├── OpenSans-Light.ttf
+│   ├── OpenSans-LightItalic.ttf
+│   ├── OpenSans-Regular.ttf
+│   ├── OpenSans-SemiBold.ttf
+│   └── OpenSans-SemiBoldItalic.ttf
+├── images
+│   ├── after_pray.png
+│   ├── evening.png
+│   └── morning.png
+├── ios
+├── lib
+│   ├── components
+│   │   ├── azkary_card.dart
+│   │   ├── azkary_morning_card.dart
+│   │   ├── badge_text.dart
+│   │   └── second_header_bar.dart
+│   ├── main.dart
+│   ├── screens
+│   │   ├── azkary_morning.dart
+│   │   └── azkary_screen.dart
+│   ├── services
+│   │   ├── azcary_list.dart
+│   │   └── azkary_morning_list.dart
+│   └── theme_data.dart
+├── pubspec.lock
+├── pubspec.yaml
+├── test
+│   └── widget_test.dart
+└── umma_flutter.iml
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
