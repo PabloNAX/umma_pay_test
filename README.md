@@ -2,13 +2,18 @@
 
 ## Описание
 
-Все константы использованы в ThemeData в файл ```theme_data.dart````
+Все константы использованы в ThemeData в файл ```theme_data.dart```
 
 Экраны вынесены в директорию ```/screens```
 
 Компоненты вынесены в директорию ```/components```
 
 ListView Builder использует статичные списки из директории ```/services```
+
+## Готовые Скрины
+
+![](https://ibb.co/7gCHGwp)
+![](https://ibb.co/JRLQNNZ)
 
 ## Дерево проекта
 
