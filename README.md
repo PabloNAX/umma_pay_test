@@ -12,8 +12,8 @@ ListView Builder использует статичные списки из ди�
 
 ## Готовые Скрины
 
-![](https://uikitty.net/wp-content/uploads/2020/09/Simulator-Screen-Shot-iPhone-11-2020-09-27-at-23.58.43.png)
-![](https://uikitty.net/wp-content/uploads/2020/09/Simulator-Screen-Shot-iPhone-11-2020-09-27-at-23.58.46.png)
+![](https://uikitty.net/wp-content/uploads/2020/09/Simulator-Screen-Shot-iPhone-11-2020-09-27-at-23.58.43.png=250x)
+![](https://uikitty.net/wp-content/uploads/2020/09/Simulator-Screen-Shot-iPhone-11-2020-09-27-at-23.58.46.png=250x)
 
 ## Дерево проекта
 
