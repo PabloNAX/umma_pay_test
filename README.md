@@ -10,8 +10,12 @@
 
 ListView Builder использует статичные списки из директории ```/services```
 
-## Готовые Скрины
+## Скрины
+### Макет:
+<img src="https://uikitty.net/wp-content/uploads/2020/10/Снимок-экрана-2020-10-16-в-14.02.19.png" width="560"/>
 
+
+### Готовые скрины:
 <p float="left">
 <img src="https://uikitty.net/wp-content/uploads/2020/09/Simulator-Screen-Shot-iPhone-11-2020-09-27-at-23.58.43.png" width="300"/>
 <img src="https://uikitty.net/wp-content/uploads/2020/09/Simulator-Screen-Shot-iPhone-11-2020-09-27-at-23.58.46.png" width="300"/>
